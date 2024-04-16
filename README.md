@@ -1,3 +1,6 @@
+[![Netology homework](https://github.com/andrejtop/ajs-hw-dnd/actions/workflows/web.yml/badge.svg)](https://github.com/andrejtop/ajs-hw-dnd/actions/workflows/web.yml)
+
+https://andrejtop.github.io/ajs-hw-dnd/
 
 # Домашнее задание к занятию "6. Работа с файлами, DnD"
 
